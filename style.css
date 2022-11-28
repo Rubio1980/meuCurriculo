@@ -1,0 +1,127 @@
+header {
+    padding-left: 40px;
+    padding: 8px;
+    background-color: rgb(210, 210, 210);
+    border-bottom: 5px solid rgb(60, 60, 60);
+}
+
+
+.name {
+    font-family: garamond, serif;
+    font-size: 45px;
+    text-align: center;
+    text-shadow: 3px 3px 3px gray;
+}
+
+.area {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 21px;
+    text-align: center;
+}
+
+.social {
+    text-align: center;
+}
+
+.tel {
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 20px;
+    text-shadow: 3px 3px 3px gray;
+}
+
+.container {
+    max-width: 500px;
+    margin: auto;
+    padding: 30px;
+    background-color: rgb(240, 240, 240);
+}
+
+.resumo {
+    font-family: garamond, serif;
+    font-size: 32px;  
+    text-shadow: 3px 3px 3px gray;
+    max-width: 850px;
+    margin: auto;
+}
+
+.sobre {
+    font-size: 22px;
+    line-height: 32px;
+    font-family: 'Courier New', Courier, monospace;
+    font-style: oblique;
+    max-width: 950px;
+    margin: auto;
+}
+
+.formacao {
+    font-family: garamond, serif;
+    font-size: 32px;  
+    text-shadow: 3px 3px 3px gray;
+    max-width: 850px;
+    margin: auto;
+}
+
+.graduacao {
+    font-family: garamond, serif;
+    font-size: 24px;
+    max-width: 950px;
+    margin: auto;
+}
+
+.mack {
+    font-size: 22px;
+    line-height: 32px;
+    font-family: 'Courier New', Courier, monospace;
+    font-style: oblique;
+    max-width: 950px;
+    margin: auto;
+}
+
+.fsa {
+    font-size: 22px;
+    line-height: 32px;
+    font-family: 'Courier New', Courier, monospace;
+    font-style: oblique;
+    max-width: 950px;
+    margin: auto;
+}
+
+.cursos {
+    font-family: garamond, serif;
+    font-size: 32px;  
+    text-shadow: 3px 3px 3px gray;
+    max-width: 850px;
+    margin: auto;
+}
+
+.todos {
+    list-style-type: square;
+    font-size: 22px;
+    line-height: 32px;
+    font-family: 'Courier New', Courier, monospace;
+    font-style: oblique;
+    max-width: 950px;
+    margin: auto;
+}
+
+.experiencia {
+    font-family: garamond, serif;
+    font-size: 32px;  
+    text-shadow: 3px 3px 3px gray;
+    max-width: 850px;
+    margin: auto;
+}
+
+.empresas {
+    font-family: garamond, serif;
+    font-size: 24px;
+    max-width: 950px;
+    margin: auto;
+}
+
+.footer {
+    background-color: rgb(210, 210, 210);
+    height: 150px;
+    border-top: 5px solid rgb(60, 60, 60);
+}
